@@ -1,0 +1,16 @@
+h3{
+    color:blue;
+}
+.shop-container{
+   
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container{
+    border-right: 2px solid gray;
+    
+}
+.cart-container{
+    text-align: left;
+    margin: 10px;
+}

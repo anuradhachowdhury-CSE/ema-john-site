@@ -1,0 +1,14 @@
+.cart-style{
+    position: fixed;
+}
+.red-order{
+    color:maroon;
+}
+.Total-btn{
+    background-color: goldenrod;
+    border:1px solid gray;
+    border-radius: 5px;
+    width:150px;
+    height:25px;
+    cursor:pointer;
+}

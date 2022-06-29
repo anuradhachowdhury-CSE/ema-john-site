@@ -1,0 +1,30 @@
+
+.Product-style{
+    display: flex;
+    margin:0 10% 5% 10%;
+    border-bottom:1px solid gray;
+    text-align: left;
+    padding-bottom: 5px;
+    
+}
+h3{
+    color:black;
+}
+.img-style{
+    margin-left: 10%;
+    
+}
+.product-name{
+    color:blue;
+}
+.prod-style{
+    padding-left: 10%;
+}
+.btn-regular{
+    background-color: goldenrod;
+    border:1px solid gray;
+    border-radius: 5px;
+    width:150px;
+    height:25px;
+    cursor:pointer;
+}

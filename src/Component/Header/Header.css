@@ -1,0 +1,23 @@
+.header img{
+    width:20%;
+}
+.head{
+    background-color: rgb(27, 25, 25);
+    line-height: 50px;
+    margin-top: 10px;
+}
+.head a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;   
+    font-size: 20px; 
+}
+.head a:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.input-style{
+    background-color: rgb(107, 92, 92);
+    line-height: 50px;
+    width:
+}
